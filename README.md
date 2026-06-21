@@ -19,7 +19,7 @@ The final output is a sparse weighted adjacency matrix whose edges are more alig
 
 <p align="center">
   <a href="https://github.com/jiatingyu-amss/CLEAN/">
-    <img src="images/CLEAN.png" alt="Logo" width="800">
+    <img src="images/CLEAN_pipeline.png" alt="Logo" width="800">
   </a>
 </p>
 
